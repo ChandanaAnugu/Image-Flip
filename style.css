@@ -21,7 +21,7 @@ body{
   position: absolute;
   width: 350px;
   height: 250px;
-  background: pink;
+  background:#B8FFF9;
   backface-visibility: hidden;
   transform-style: preserve-3d;
   cursor: pointer;
